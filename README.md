@@ -37,7 +37,7 @@
 <h3 align="center">Ecommerce Webpage</h3>
 <p align="center">
 <a href="https://github.com/TALHAdevelops/Nike-UI" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true&cache_seconds=1800" />
 </a>
 </p>
 </td>
@@ -48,8 +48,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1800" height="160px"/>
 </p>
 
 ---
