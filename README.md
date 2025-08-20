@@ -52,6 +52,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1800" height="160px"/>
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&theme=radical)
+
 ---
 
 ## 🌐 Let’s Connect
