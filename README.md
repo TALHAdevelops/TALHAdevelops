@@ -36,8 +36,8 @@
 <td width="50%">
 <h3 align="center">Ecommerce Webpage</h3>
 <p align="center">
-<a href="https://github.com/TALHAdevelops/Ecommerce-webpage" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Ecommerce-webpage&theme=radical&hide_border=true" />
+<a href="https://github.com/TALHAdevelops/Nike-UI" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true" />
 </a>
 </p>
 </td>
