@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Talha%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 # Hi there, I’m Muhammad Talha 👋  
-🚀 *Full-Stack Enthusiast | AI Agent Developer | Frontend Freelancer*  
+🚀 *Full-Stack Student | AI Agent Developer | Frontend Freelancer*  
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **TypeScript, React.js, Next.js**  
+- 🌱 Currently learning **Back-End Programming(Node.js, Express, MongoDB etc) ||  Agentic AI-Engineering**  
 - 🤖 Building **AI Agents** in Python (Crypto, Translator, Shopping bots & more)  
 - ⚡ Fun fact: *I code because I’m lazy… automation saves time!*  
 - 🌍 Open to collaborations & freelance opportunities  
