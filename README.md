@@ -52,7 +52,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1800" height="160px"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&langs_count=10&theme=radical&cache_seconds=1)
 
 
 
