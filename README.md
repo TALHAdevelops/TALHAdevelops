@@ -28,7 +28,7 @@
 <h3 align="center">Crypto Agent</h3>
 <p align="center">
 <a href="https://github.com/TALHAdevelops/Crypto-Agent" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Crypto-Agent&theme=radical&hide_border=true&cache_seconds=5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Crypto-Agent&theme=radical&hide_border=true&cache_seconds=1" />
 </a>
 </p>
 </td>
@@ -37,7 +37,7 @@
 <h3 align="center">Ecommerce Webpage</h3>
 <p align="center">
 <a href="https://github.com/TALHAdevelops/Nike-UI" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true&cache_seconds=5" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true&cache_seconds=1" />
 </a>
 </p>
 </td>
