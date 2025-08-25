@@ -50,7 +50,6 @@
 <p align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true&cache_seconds=1" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1800" height="160px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1" height="160px"/>
 </p>
 
