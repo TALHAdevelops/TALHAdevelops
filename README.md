@@ -75,10 +75,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true&cache_seconds=1" height="160px"/>
 </p>
 
- (https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&langs_count=10&theme=radical&cache_seconds=1)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&langs_count=10&theme=radical&cache_seconds=1)
 
 <!-- Optional Profile Summary Card -->
-(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TALHAdevelops&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TALHAdevelops&theme=radical)
 
 ---
 
