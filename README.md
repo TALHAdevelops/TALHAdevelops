@@ -64,8 +64,7 @@
 
 ## 🏆 Achievements & Highlights *(New)*
 - Pull Shark Badge for multiple PR contributions  
-- Built 5+ AI agents for automation projects  
-- Freelancing frontend developer with real client work  
+- Built 5+ AI agents for automation projects    
 - Active GitHub contributor with consistent commits  
 
 ---
