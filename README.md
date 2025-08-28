@@ -107,7 +107,9 @@
 ---
 
 <!-- Optional Snake Animation -->
-![snake gif](https://github.com/TALHAdevelops/TALHAdevelops/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/TALHAdevelops/TALHAdevelops/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/TALHAdevelops/TALHAdevelops/output/snake.svg#gh-dark-mode-only)
+
 
 ---
 
