@@ -1,6 +1,15 @@
 <!-- Profile Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Talha%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7DC6F&center=true&vCenter=true&lines=Hi+There!+👋;I+am+Muhammad+Talha;Full-Stack+Dev+%26+AI+Agent+Builder"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TALHAdevelops&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi there, I’m Muhammad Talha 👋  
 🚀 *Full-Stack Student | AI Agent Developer | Frontend Freelancer*  
 
@@ -18,6 +27,14 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,tailwind,html,css,git,github,vscode&perline=6" />
+</p>
+
+<p align="center">
+  <!-- Fancy Badges -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 **Core Skills:**  
@@ -70,8 +87,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
@@ -79,8 +96,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TALHAdevelops&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TALHAdevelops&theme=radical"/>
 </p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TALHAdevelops&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+<!-- Optional Snake Animation -->
+![snake gif](https://github.com/TALHAdevelops/TALHAdevelops/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
