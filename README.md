@@ -12,6 +12,7 @@
 
 # Hi there, I’m Muhammad Talha 👋  
 🚀 *Full-Stack Student | AI Agent Developer | Frontend Freelancer*  
+![My Portfolio](https://dev-talha.vercel.app/)
 
 ---
 
