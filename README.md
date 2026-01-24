@@ -13,7 +13,7 @@
 # Hi there, I’m Muhammad Talha 👋  
 🚀 *Full-Stack Student | AI Agent Developer | Frontend Freelancer*  
 
-<a href="https://dev-talha.vercel.app/" target="_blank">
+<a href="https://muhammad-talha-dev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
 </a>
 
