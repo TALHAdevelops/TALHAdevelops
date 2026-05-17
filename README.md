@@ -1,129 +1,109 @@
 <!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=180&section=header&text=Muhammad%20Talha%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:EC4899&height=220&section=header&text=Muhammad%20Talha%20👨‍💻&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%"/>
 
-<!-- Animated Typing SVG -->
+<!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=F7DC6F&center=true&vCenter=true&lines=Hi+There!+👋;I+am+Muhammad+Talha;Full-Stack+Dev+%26+AI+Agent+Builder;Automating+the+web,+one+script+at+a+time."/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Muhammad+Talha;Full-Stack+Developer+%26+AI+Agent+Engineer;Building+the+Future+with+Code+%26+Intelligence" />
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=TALHAdevelops&label=Profile%20Views&color=6366F1&style=for-the-badge)
+
+---
+
+## 👋 About Me
+
+**🚀 Full-Stack Developer | AI Agent Builder | Automation Enthusiast**
+
+I'm a passionate developer who turns ideas into reality through clean code and intelligent automation. Currently mastering backend systems and building powerful AI agents that solve real-world problems.
+
+- 🌱 **Currently Learning:** Advanced Node.js/Express, System Design, Agentic AI & Multi-Agent Systems
+- 🤖 **Building:** Autonomous AI Agents (Trading, Shopping, Research, Workflow Automation)
+- ⚡ **Fun Fact:** I code because I'm lazy — automation is my love language
+- 🌍 **Open For:** Freelance opportunities, Collaborations & Interesting Projects
+- 🏆 **2025-26 Goals:** Launch 3 SaaS products, Contribute to major open-source projects, Build a premium AI automation agency
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TALHAdevelops&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,python,tailwind,html,css,git,github,docker,postgres,mongodb,redis&perline=8" />
 </p>
 
-<p align="center">
-  <a href="https://talha-os.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Live-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+**Core Expertise:**
+
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS  
+**Backend:** Node.js • Express • MongoDB • PostgreSQL  
+**AI & Automation:** Python • LangChain • OpenAI • CrewAI • AutoGen  
+**Tools & Others:** Git • Docker • Linux • Postman • Figma • Vercel
 
 ---
 
-## 🚀 About Me
-
-I am a passionate **Full-Stack Developer** and **Agentic AI Engineer** focused on building intelligent automations and seamless user experiences. I bridge the gap between robust web applications and autonomous AI frameworks.
-
-- 🛠️ **Current Focus:** Advanced Backend Architectures (Node.js, Express, MongoDB) & Agentic AI Workflows.
-- 🤖 **AI Building:** Crafting standalone AI Agents in Python using LangChain, LangGraph, and OpenAI APIs.
-- ⚡ **Philosophy:** Why do it manually when you can write a script to do it for you?
-- 💼 **Availability:** Open for freelance contracts, innovative collaborations, and open-source contributions.
-
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-### 💻 Frontend & Styling
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ⚙️ Backend, AI & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel" />
-</p>
-
----
-
-## 🎯 Active Projects & SaaS Roadmaps
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">🤖 Crypto Agent</h3>
-<p align="center">
-  <a href="https://github.com/TALHAdevelops/Crypto-Agent" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Crypto-Agent&theme=radical&hide_border=true" width="100%"/>
+<td width="50%" align="center">
+  <h3>🤖 Crypto Agent</h3>
+  <a href="https://github.com/TALHAdevelops/Crypto-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Crypto-Agent&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-<ul>
-  <li>Autonomous crypto tracking & AI-driven sentiment/trading signals.</li>
-  <li>Built with <b>Python + LangChain + Market APIs</b>.</li>
-</ul>
+  <br><br>
+  <strong>AI-Powered Crypto Intelligence</strong><br>
+  Live tracking • Smart trading signals • Autonomous alerts
 </td>
-
-<td width="50%" valign="top">
-<h3 align="center">👟 Nike E-Commerce</h3>
-<p align="center">
-  <a href="https://github.com/TALHAdevelops/Nike-UI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=radical&hide_border=true" width="100%"/>
+<td width="50%" align="center">
+  <h3>👟 Nike Store UI</h3>
+  <a href="https://github.com/TALHAdevelops/Nike-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-<ul>
-  <li>High-performance storefront with headless CMS integration.</li>
-  <li>Built with <b>Next.js + Sanity CMS + Tailwind CSS</b>.</li>
-</ul>
+  <br><br>
+  <strong>Modern E-commerce Experience</strong><br>
+  Next.js 15 • Sanity CMS • Cart & Checkout • Fully Responsive
 </td>
 </tr>
 </table>
 
+### More Awesome Projects
+- **AI Research Agent** – Autonomous web researcher with summarization
+- **Smart Shopping Bot** – Finds best deals across platforms
+- **Multi-Agent Workflow System** – Task orchestration engine
+
+> Check out my **[Repositories](https://github.com/TALHAdevelops?tab=repositories)** for more!
+
 ---
 
-## 🏆 Key Milestones
-- 🦈 **Pull Shark** badge earned for active open-source PR contributions.
-- 🤖 Successfully deployed **5+ custom AI agents** handling complex automation pipelines.
-- 📈 Maintaining a consistent git contribution streak with structured, semantic commits.
+## 🏆 Achievements & Highlights
+
+- **Pull Shark** – Multiple merged PRs in open source
+- Built **7+ production-grade AI Agents**
+- Consistent GitHub activity with daily contributions
+- Active freelancer delivering high-quality web & AI solutions
 
 ---
 
-## 📊 Developer Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TALHAdevelops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAdevelops&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&langs_count=10&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAdevelops&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TALHAdevelops&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TALHAdevelops&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
-<br>
+---
 
-<!-- Optional Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TALHAdevelops/TALHAdevelops/output/snake.svg#gh-light-mode-only" alt="GitHub Snake Light" width="80%"/>
-  <img src="https://raw.githubusercontent.com/TALHAdevelops/TALHAdevelops/output/snake.svg#gh-dark-mode-only" alt="GitHub Snake Dark" width="80%"/>
-</p>
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/TALHAdevelops/TALHAdevelops/output/snake.svg" width="100%" />
 
 ---
 
@@ -131,17 +111,19 @@ I am a passionate **Full-Stack Developer** and **Agentic AI Engineer** focused o
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="https://talha-os.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/TALHAdevelops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/TALHAdevelops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- Bottom Banner Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:EC4899&height=100&section=footer&text=Thank%20You%20for%20Visiting%20%F0%9F%92%99" width="100%"/>
