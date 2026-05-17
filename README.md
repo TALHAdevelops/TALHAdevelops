@@ -30,12 +30,12 @@ location: Pakistan 🇵🇰
 role:     Full-Stack Student & AI Agent Developer
 ```
 
-- 🔭 &nbsp;Currently building **AI Agents** — crypto bots, translators, shopping assistants & more  
+- 🔭 &nbsp;Currently building **AI Agents And MERN Projects** — crypto bots, Managment Systems etc.  
 - 🌱 &nbsp;Leveling up in **Node.js · Express · MongoDB · Agentic AI Engineering**  
 - 🛠️ &nbsp;Freelancing as a **Frontend Dev** building pixel-perfect UIs  
 - 🤝 &nbsp;Open to **collaborations, freelance gigs & open-source** contributions  
 - ⚡ &nbsp;Fun fact: *I automate things so I can be lazy more efficiently*  
-- 🏆 &nbsp;**2025 Goals:** Ship 3 SaaS products · Grow open-source · Launch AI automation service  
+- 🏆 &nbsp;**2026 Goals:** Ship 3 SaaS products · Grow open-source · Launch AI automation service  
 
 <br clear="right"/>
 
@@ -83,14 +83,15 @@ role:     Full-Stack Student & AI Agent Developer
 
 <h3 align="center">🤖 Crypto AI Agent</h3>
 <div align="center">
-  <a href="https://github.com/TALHAdevelops/Crypto-Agent" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Crypto-Agent&theme=tokyonight&hide_border=true&border_radius=12" width="100%"/>
+  <a href="https://github.com/TALHAdevelops/hms-system" target="_blank">
+   
   </a>
 </div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Live%20APIs-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 <p>Live crypto price tracking with AI-powered signals. Fetches real-time market data and generates intelligent trading insights using LangChain agents.</p>
 
@@ -99,14 +100,15 @@ role:     Full-Stack Student & AI Agent Developer
 
 <h3 align="center">👟 Nike Ecommerce UI</h3>
 <div align="center">
-  <a href="https://github.com/TALHAdevelops/Nike-UI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TALHAdevelops&repo=Nike-UI&theme=tokyonight&hide_border=true&border_radius=12" width="100%"/>
+  <a href="https://github.com/TALHAdevelops/Full-stack-TODO-APP" target="_blank">
+  
   </a>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sanity%20CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 <p>Nike-inspired storefront with Sanity CMS integration, shopping cart, responsive design, and smooth animations — production-ready e-commerce.</p>
 
