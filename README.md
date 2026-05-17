@@ -81,10 +81,10 @@ role:     Full-Stack Student & AI Agent Developer
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 Crypto AI Agent</h3>
+
 <div align="center">
   <a href="https://github.com/TALHAdevelops/hms-system" target="_blank">
-   
+   <h3 align="center">🏥 Hospital Managment System</h3>
   </a>
 </div>
 <p align="center">
@@ -98,10 +98,10 @@ role:     Full-Stack Student & AI Agent Developer
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">👟 Nike Ecommerce UI</h3>
+
 <div align="center">
   <a href="https://github.com/TALHAdevelops/Full-stack-TODO-APP" target="_blank">
-  
+  <h3 align="center">🎫 Todo Application</h3>
   </a>
 </div>
 <p align="center">
