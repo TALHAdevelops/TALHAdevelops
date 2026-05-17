@@ -160,7 +160,7 @@ role:     Full-Stack Student & AI Agent Developer
 
 ---
 
-## 🎯 &nbsp;2025 Roadmap
+## 🎯 &nbsp;2026 Roadmap
 
 ```
 🟣 ████████░░  Ship 3 SaaS Products           [In Progress]
